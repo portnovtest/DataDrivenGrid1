@@ -1,0 +1,63 @@
+00:15:24,767 DEBUG devpinoyLogger:57 - Thread : 2a7e21cb7f09   Browser : firefox   Clicking on an Element : bmlBtn_CSS
+00:15:24,877 DEBUG devpinoyLogger:57 - Thread : cb0d8c5d4856   Browser : firefox   Clicking on an Element : bmlBtn_CSS
+00:15:25,053 DEBUG devpinoyLogger:57 - Thread : 9b0e1a8453f7   Browser : firefox   Clicking on an Element : bmlBtn_CSS
+00:15:25,648 DEBUG devpinoyLogger:57 - Thread : 2a7e21cb7f09   Browser : firefox   Clicking on an Element : openaccount_CSS
+00:15:25,674 DEBUG devpinoyLogger:57 - Thread : cb0d8c5d4856   Browser : firefox   Clicking on an Element : addCustBtn_CSS
+00:15:25,925 DEBUG devpinoyLogger:57 - Thread : 9b0e1a8453f7   Browser : firefox   Clicking on an Element : openaccount_CSS
+00:15:27,048 DEBUG devpinoyLogger:57 - Thread : cb0d8c5d4856   Browser : firefox   Typing in an Element : firstname_CSS
+00:15:27,064 DEBUG devpinoyLogger:57 - Thread : 9b0e1a8453f7   Browser : firefox   Typing in an Element : customer_CSS
+00:15:27,133 DEBUG devpinoyLogger:57 - Thread : 2a7e21cb7f09   Browser : firefox   Typing in an Element : customer_CSS
+00:15:27,673 DEBUG devpinoyLogger:57 - Thread : 9b0e1a8453f7   Browser : firefox   Typing in an Element : currency_CSS
+00:15:27,757 DEBUG devpinoyLogger:57 - Thread : 2a7e21cb7f09   Browser : firefox   Typing in an Element : currency_CSS
+00:15:27,778 DEBUG devpinoyLogger:57 - Thread : cb0d8c5d4856   Browser : firefox   Typing in an Element : lastname_XPATH
+00:15:28,257 DEBUG devpinoyLogger:57 - Thread : 9b0e1a8453f7   Browser : firefox   Clicking on an Element : process_CSS
+00:15:28,274 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+00:15:28,275 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+00:15:28,276 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+00:15:28,277 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+00:15:28,277 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/WINDOWS/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+00:15:28,301 DEBUG devpinoyLogger:57 - Thread : 2a7e21cb7f09   Browser : firefox   Clicking on an Element : process_CSS
+00:15:28,443 DEBUG devpinoyLogger:57 - Thread : cb0d8c5d4856   Browser : firefox   Typing in an Element : postcode_CSS
+00:15:28,466 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+00:15:28,466 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+00:15:28,466 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+00:15:28,467 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+00:15:28,467 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/WINDOWS/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+00:15:28,908 DEBUG devpinoyLogger:57 - Thread : cb0d8c5d4856   Browser : firefox   Clicking on an Element : addbtn_CSS
+00:15:28,909 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+00:15:28,909 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+00:15:28,909 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+00:15:28,910 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+00:15:28,910 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/WINDOWS/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+00:15:33,202 DEBUG devpinoyLogger:57 - Thread : ed18367ce2ee   Browser : firefox   Clicking on an Element : bmlBtn_CSS
+00:15:33,592 DEBUG devpinoyLogger:57 - Thread : 544470f9d80b   Browser : firefox   Clicking on an Element : bmlBtn_CSS
+00:15:33,734 DEBUG devpinoyLogger:57 - Thread : ed18367ce2ee   Browser : firefox   Clicking on an Element : addCustBtn_CSS
+00:15:34,026 DEBUG devpinoyLogger:57 - Thread : e71ea5442f7c   Browser : firefox   Clicking on an Element : bmlBtn_CSS
+00:15:34,427 DEBUG devpinoyLogger:57 - Thread : ed18367ce2ee   Browser : firefox   Typing in an Element : firstname_CSS
+00:15:34,484 DEBUG devpinoyLogger:57 - Thread : 544470f9d80b   Browser : firefox   Clicking on an Element : addCustBtn_CSS
+00:15:34,536 DEBUG devpinoyLogger:57 - Thread : e71ea5442f7c   Browser : firefox   Clicking on an Element : openaccount_CSS
+00:15:34,667 DEBUG devpinoyLogger:57 - Thread : ed18367ce2ee   Browser : firefox   Typing in an Element : lastname_XPATH
+00:15:34,812 DEBUG devpinoyLogger:57 - Thread : ed18367ce2ee   Browser : firefox   Typing in an Element : postcode_CSS
+00:15:35,009 DEBUG devpinoyLogger:57 - Thread : 544470f9d80b   Browser : firefox   Typing in an Element : firstname_CSS
+00:15:35,258 DEBUG devpinoyLogger:57 - Thread : e71ea5442f7c   Browser : firefox   Typing in an Element : customer_CSS
+00:15:35,393 DEBUG devpinoyLogger:57 - Thread : 544470f9d80b   Browser : firefox   Typing in an Element : lastname_XPATH
+00:15:35,427 DEBUG devpinoyLogger:57 - Thread : ed18367ce2ee   Browser : firefox   Clicking on an Element : addbtn_CSS
+00:15:35,428 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+00:15:35,428 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+00:15:35,428 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+00:15:35,428 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+00:15:35,429 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/WINDOWS/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+00:15:35,441 DEBUG devpinoyLogger:57 - Thread : e71ea5442f7c   Browser : firefox   Typing in an Element : currency_CSS
+00:15:35,724 DEBUG devpinoyLogger:57 - Thread : 544470f9d80b   Browser : firefox   Typing in an Element : postcode_CSS
+00:15:35,944 DEBUG devpinoyLogger:57 - Thread : e71ea5442f7c   Browser : firefox   Clicking on an Element : process_CSS
+00:15:35,945 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+00:15:35,946 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+00:15:35,946 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+00:15:35,946 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+00:15:35,946 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/WINDOWS/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+00:15:36,138 DEBUG devpinoyLogger:57 - Thread : 544470f9d80b   Browser : firefox   Clicking on an Element : addbtn_CSS
+00:15:36,138 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+00:15:36,139 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+00:15:36,139 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+00:15:36,139 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+00:15:36,139 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/WINDOWS/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
